@@ -1,6 +1,6 @@
-﻿import './styles/global.css';
+﻿import './styles/global.scss';
 
 export function App() {
-  //throw new Error("omg errro")
-  return <h1>Hello World and Augusto. This 'Hello' is powered by ReactJS. How do you feel about it?!</h1>
+  //throw new Error("omg erro")
+  return <h1>Hello World and Augusto. This 'Hello' is powered by ReactJS. How do you like that?</h1>
 }
